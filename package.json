@@ -1,0 +1,9 @@
+{
+  "name": "empty-nodejs-application",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}

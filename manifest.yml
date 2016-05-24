@@ -1,0 +1,4 @@
+---
+applications:
+- name: empty-nodejs-application
+  command: node app.js
